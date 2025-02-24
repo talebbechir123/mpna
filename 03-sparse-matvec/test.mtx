@@ -1,0 +1,6 @@
+%%MatrixMarket matrix coordinate real symmetric
+% simple symmetric 2x2 matrix with known eigenpair
+2 2 3
+1 1 2.0
+2 2 3.0
+2 1 1.0
